@@ -1,1 +1,1 @@
-# Implementation of EfficientNet from scratch using PyTorch
+# Implementation of architectures using PyTorch

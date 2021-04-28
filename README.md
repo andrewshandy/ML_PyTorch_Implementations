@@ -1,1 +1,1 @@
-# Implementation of architectures using PyTorch
+# PyTorch architectures implementation 
